@@ -1,0 +1,21 @@
+# STM32CubeIDE build outputs
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.su
+
+# Eclipse metadata & settings
+.metadata/
+.settings/language.settings.xml
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
